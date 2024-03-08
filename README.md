@@ -1,4 +1,4 @@
-# HTML Image Downloader
+# HTML Image Scraper
 
 This Python script allows you to download images from an HTML file by extracting image URLs and saving the images to a specified directory. It can be useful when you need to scrape images from a web page or process HTML content containing image links.
 
